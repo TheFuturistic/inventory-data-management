@@ -51,4 +51,3 @@ The API runs at `http://localhost:5000`.
 
 ### 4. DELETE Product
 ![DELETE Request Screenshot](screenshots/delete.png)
-# inventory-data-management
